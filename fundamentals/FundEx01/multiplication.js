@@ -5,4 +5,4 @@ function multiplication (n) {
     }
 }
 
-multiplication(78)
+multiplication()
